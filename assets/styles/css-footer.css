@@ -1,0 +1,15 @@
+footer {
+  padding: 100px 10%;
+  background-color: #002A50;
+  border-top: 10px solid lightblue;
+  color: white;
+}
+
+footer div.copyright span {
+  display: block;
+  text-align: center;
+}
+
+footer div.copyright span a {
+  color: white;
+}
